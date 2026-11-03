@@ -1,0 +1,5 @@
+users:
+  alice@email.com:   [tcs]
+  bob@email.com:     [infosys, hdfcbank]
+  charlie@email.com: [reliance]
+  diana@email.com:   [tcs, reliance]

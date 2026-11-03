@@ -1,0 +1,11 @@
+pyyaml
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+pymupdf
+sentence-transformers
+langchain-groq
+python-dotenv
+streamlit
